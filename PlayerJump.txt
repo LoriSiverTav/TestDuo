@@ -1,3 +1,4 @@
 click space
 
 Collision detected
+Trigger Detected
